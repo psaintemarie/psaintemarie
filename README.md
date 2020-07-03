@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🧑🏻‍💻 I work at Datadog Inc as a IT (Mac) System Adminstrator
+- 💬 I sometimes blog [here](https://meleia.net)
 - 📫 How to reach me: [Twitter](twitter.com/psm)
 
 <!--
