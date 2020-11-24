@@ -3,7 +3,7 @@
 - 🧑🏻‍💻 I work at Datadog as an IT System Adminstrator / MacAdmin in Paris, France
 - 💬 I sometimes (rarely) blog [here](https://meleia.net)
 - 📦 I publish some [AutoPkg](https://github.com/autopkg) recipes [here](https://github.com/autopkg/psaintemarie-recipes)
-- 📫 How to reach me: [Twitter](twitter.com/psm)
+- 📫 How to reach me: [Twitter](https://twitter.com/psm)
 - ⚡ Fun fact: Dad of two 👧🏼 👶🏼 + 🐶 🐱
 
 <!--
