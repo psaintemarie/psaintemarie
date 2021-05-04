@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🧑🏻‍💻 I work at [Datadog](https://github.com/DataDog) as an IT System Adminstrator / MacAdmin in Paris, France
+- 🧑🏻‍💻 I work at [Datadog](https://github.com/DataDog) as an IT System Adminstrator / MacAdmin in Bernay, Normandy, France
 - 💬 I sometimes (rarely) blog [here](https://meleia.net)
 - 📦 I publish some [AutoPkg](https://github.com/autopkg) recipes [here](https://github.com/autopkg/psaintemarie-recipes)
 - 📫 How to reach me: [Twitter](https://twitter.com/psm)
